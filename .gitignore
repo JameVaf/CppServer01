@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 忽略.vscode
+/.vscode
+*.json
