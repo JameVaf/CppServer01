@@ -33,4 +33,5 @@
 
 # 忽略.vscode
 /.vscode
+/bin
 *.json
